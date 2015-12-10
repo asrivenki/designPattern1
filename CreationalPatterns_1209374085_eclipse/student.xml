@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<GradeBook class="CSE 598">
+    <GradingSchema>
+        <GradeItem>
+            <Category>Exams</Category>
+            <Percentage>60</Percentage>
+        </GradeItem>
+        <GradeItem>
+            <Category>Assignments</Category>
+            <Percentage>20</Percentage>
+        </GradeItem>
+        <GradeItem>
+            <Category>Programming Assignments</Category>
+            <Percentage>20</Percentage>
+        </GradeItem>
+    </GradingSchema>
+    <Grades>
+        <Student>
+            <Name>Clark Kent</Name>
+            <ID>555-12-3456</ID>
+            <AssignedWork category="Exams">
+                <GradedWork>
+                    <Name>Mid Term</Name>
+                    <Grade>20</Grade>
+                </GradedWork>
+                <GradedWork>
+                    <Name>Final</Name>
+                    <Grade>80</Grade>
+                </GradedWork>
+            </AssignedWork>
+            <AssignedWork category="Assignments">
+                <GradedWork>
+                    <Name>Abbott</Name>
+                    <Grade>80</Grade>
+                </GradedWork>
+                <GradedWork>
+                    <Name>CRC</Name>
+                    <Grade>95</Grade>
+                </GradedWork>
+            </AssignedWork>
+            <AssignedWork category="Programming Assignments">
+                <GradedWork>
+                    <Name>Cretional Patterns</Name>
+                    <Grade>80</Grade>
+                </GradedWork>
+            </AssignedWork>
+        </Student>
+        <Student>
+            <Name>Venky</Name>
+            <ID>1209989899</ID>
+            <AssignedWork category="Exams">
+                <GradedWork>
+                    <Name>Mid Term</Name>
+                    <Grade>20</Grade>
+                </GradedWork>
+                <GradedWork>
+                    <Name>Final</Name>
+                    <Grade>80</Grade>
+                </GradedWork>
+            </AssignedWork>
+            <AssignedWork category="Assignments">
+                <GradedWork>
+                    <Name>Abbott</Name>
+                    <Grade>80</Grade>
+                </GradedWork>
+                <GradedWork>
+                    <Name>CRC</Name>
+                    <Grade>95</Grade>
+                </GradedWork>
+            </AssignedWork>
+            <AssignedWork category="Programming Assignments">
+                <GradedWork>
+                    <Name>Cretional Patterns</Name>
+                    <Grade>80</Grade>
+                </GradedWork>
+            </AssignedWork>
+        </Student>
+        <Student>
+            <Name>Venky</Name>
+            <ID>1209989899</ID>
+            <AssignedWork category="Exams">
+                <GradedWork>
+                    <Name>Mid Term</Name>
+                    <Grade>100</Grade>
+                </GradedWork>
+                <GradedWork>
+                    <Name>Final</Name>
+                    <Grade>100</Grade>
+                </GradedWork>
+            </AssignedWork>
+            <AssignedWork category="Assignments">
+                <GradedWork>
+                    <Name>Abbott</Name>
+                    <Grade>80</Grade>
+                </GradedWork>
+                <GradedWork>
+                    <Name>CRC</Name>
+                    <Grade>95</Grade>
+                </GradedWork>
+            </AssignedWork>
+            <AssignedWork category="Programming Assignments">
+                <GradedWork>
+                    <Name>Cretional Patterns</Name>
+                    <Grade>80</Grade>
+                </GradedWork>
+            </AssignedWork>
+        </Student>
+    </Grades>
+</GradeBook> 

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gradeBook className="CSE 598">
+    <grades>
+        <Student>
+            <name>Clark Kent</name>
+            <ID>555-12-3456</ID>
+            <assignedWork>
+                <gradedWork>
+                    <name>Mid Term</name>
+                    <grade>20</grade>
+                </gradedWork>
+                <gradedWork>
+                    <name>Final</name>
+                    <grade>80</grade>
+                </gradedWork>
+            </assignedWork>
+            <assignedWork>
+                <gradedWork>
+                    <name>Abbott</name>
+                    <grade>80</grade>
+                </gradedWork>
+                <gradedWork>
+                    <name>CRC</name>
+                    <grade>95</grade>
+                </gradedWork>
+            </assignedWork>
+            <assignedWork>
+                <gradedWork>
+                    <name>Cretional Patterns</name>
+                    <grade>80</grade>
+                </gradedWork>
+            </assignedWork>
+            <finalGrade>D</finalGrade>
+        </Student>
+        <Student>
+            <name>Bruce Wayne</name>
+            <ID>555-12-6543</ID>
+            <assignedWork>
+                <gradedWork>
+                    <name>Mid Term</name>
+                    <grade>80</grade>
+                </gradedWork>
+                <gradedWork>
+                    <name>Final</name>
+                    <grade>10</grade>
+                </gradedWork>
+            </assignedWork>
+            <assignedWork>
+                <gradedWork>
+                    <name>Abbott</name>
+                    <grade>90</grade>
+                </gradedWork>
+                <gradedWork>
+                    <name>CRC</name>
+                    <grade>85</grade>
+                </gradedWork>
+            </assignedWork>
+            <assignedWork>
+                <gradedWork>
+                    <name>Cretional Patterns</name>
+                    <grade>90</grade>
+                </gradedWork>
+            </assignedWork>
+            <finalGrade>D</finalGrade>
+        </Student>
+        <student>
+            <name>Clark Kent</name>
+            <ID>555-12-3456</ID>
+            <assignedWork>
+                <gradedWork>
+                    <name>Mid Term</name>
+                    <grade>20</grade>
+                </gradedWork>
+                <gradedWork>
+                    <name>Final</name>
+                    <grade>80</grade>
+                </gradedWork>
+            </assignedWork>
+            <assignedWork>
+                <gradedWork>
+                    <name>Abbott</name>
+                    <grade>80</grade>
+                </gradedWork>
+                <gradedWork>
+                    <name>CRC</name>
+                    <grade>95</grade>
+                </gradedWork>
+            </assignedWork>
+            <assignedWork>
+                <gradedWork>
+                    <name>Cretional Patterns</name>
+                    <grade>80</grade>
+                </gradedWork>
+            </assignedWork>
+            <finalGrade>D</finalGrade>
+        </student>
+        <student>
+            <name>Bruce Wayne</name>
+            <ID>555-12-6543</ID>
+            <assignedWork>
+                <gradedWork>
+                    <name>Mid Term</name>
+                    <grade>80</grade>
+                </gradedWork>
+                <gradedWork>
+                    <name>Final</name>
+                    <grade>10</grade>
+                </gradedWork>
+            </assignedWork>
+            <assignedWork>
+                <gradedWork>
+                    <name>Abbott</name>
+                    <grade>90</grade>
+                </gradedWork>
+                <gradedWork>
+                    <name>CRC</name>
+                    <grade>85</grade>
+                </gradedWork>
+            </assignedWork>
+            <assignedWork>
+                <gradedWork>
+                    <name>Cretional Patterns</name>
+                    <grade>90</grade>
+                </gradedWork>
+            </assignedWork>
+            <finalGrade>D</finalGrade>
+        </student>
+    </grades>
+</gradeBook>
